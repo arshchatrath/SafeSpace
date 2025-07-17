@@ -145,5 +145,3 @@ npm run dev
 SafeSpace AI bridges advanced hardware, modern ML, and explainable, real-time analytics for trustworthy mental health support.
 
 *Live at [safespaceai.vercel.app](https://safespaceai.vercel.app). For documentation and details, see `/docs`.*
-
-**Need badges, license, or extended docs? Just ask!**
