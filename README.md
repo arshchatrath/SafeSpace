@@ -2,8 +2,6 @@
 
 **Multimodal, Explainable, Real-Time Stress Detection Platform**
 
-[![Demo Website](https://img.shields.io/b://safespaceai.vercel.app of Contents
-
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
 - [Data Modalities](#data-modalities)
