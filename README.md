@@ -134,7 +134,13 @@ npm run dev
 
 ## Contributors
 
-- 
+- Arsh Chatrath
+- Devansh Wadhwani
+- Durvish Khurana
+- Kabir Oberoi
+- Samya Agarwal
+- Khushpreet Kaur
+- Lakshita
 
 SafeSpace AI bridges advanced hardware, modern ML, and explainable, real-time analytics for trustworthy mental health support.
 
